@@ -1,0 +1,17 @@
+================================================================================
+                                 VACCINATION REPORT
+================================================================================
+Child ID:                     SDF-ASD-12122009-3
+Treatment Administered:       **********
+Vaccine Administered:         **********
+Nurse:                       ASDF
+Date of Vaccination:          12122009
+Next Clinic Date:             
+Weight:                      12 kg
+Height:                      23 cm
+Age:                         23 years.
+Doctor:                      DFG
+Clinic:                     SDFG
+Consultation Date:           12122008
+Checkup Date:                12122008
+================================================================================

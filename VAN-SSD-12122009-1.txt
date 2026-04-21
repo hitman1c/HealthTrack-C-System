@@ -1,0 +1,12 @@
+Vaccination Report for Child ID: VAN-SSD-12122009-1
+Treatment Administered: NHSGD
+Vaccine Administered: JDBG
+Weight: 55 kg
+Height: 90 cm
+Nurse's Name: TYU
+Date of Vaccination: 11102000
+Next Clinic Date: 12022000
+Doctor's Name: xg
+Clinic Name: hsd
+Consultation Date: 12122008
+Checkup Date: 12122009

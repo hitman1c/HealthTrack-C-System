@@ -1,0 +1,9 @@
+Child's Medical Report:
+Child ID: SDD -12122009-2
+Treatment: HHDFX
+Vaccine: FDF
+Clinic Date: 12122009
+Doctor: WS
+Clinic: 
+Consultation Date: 12122999
+Checkup Date: 12123000
