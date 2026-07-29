@@ -306,7 +306,7 @@ Botho University – Bachelor of Science (Honours) in Computing
 
 🌐 GitHub: https://github.com/hitman1c
 
-💼 Portfolio: https://hitman1c.github.io/Africa-Code-Academy-Builders/
+💼 Portfolio: https://sechabaseabataportfolio.netlify.app
 
 ---
 
